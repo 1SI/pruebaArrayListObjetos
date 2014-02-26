@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author A7
+ * @author Alejandro S. 
  */
 public class Main {
 
